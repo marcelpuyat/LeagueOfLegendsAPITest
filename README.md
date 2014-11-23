@@ -1,9 +1,10 @@
 LeagueOfLegendsAPITest
 ======================
 
-Simple display of using League of Legends API using Java.
+Simple display of using League of Legends API in Java.
 
-*Remember to enter your API key into Connection.java*
+**Remember to enter your API key into Connection.java**
+
 
 ## Steps to getting API key
 1. Go to https://developer.riotgames.com/
