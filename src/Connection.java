@@ -15,7 +15,9 @@ import org.json.JSONObject;
  */
 public class Connection {
 	private final static String USER_AGENT = "Mozilla/5.0";
-	private final static String API_KEY = "?api_key=0ae853af-7f84-44c8-abe3-0457d7ee9ea7";
+	
+	// TODO: Fill in your api key here
+	private final static String API_KEY = "?api_key=" + "<your-API-key>";
 	
 	public static JSONObject sendGet(String version, String urlAfterRegion, boolean isStaticData) throws Exception {
 		
